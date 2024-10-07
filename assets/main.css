@@ -27,7 +27,7 @@ body {
 }
 
 /**
- * Set margin-bottom to maintain vertical rhythm
+ * Set `margin-bottom` to maintain vertical rhythm
  */
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
@@ -37,10 +37,10 @@ ul, ol, dl, figure,
 }
 
 /**
- * main element
+ * `main` element
  */
 main {
-  display: block; /* Default value of display of main element is 'inline' in IE 11. */
+  display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */
 }
 
 /**
@@ -207,7 +207,7 @@ table th, table td {
 table th {
   background-color: rgb(239.65, 239.65, 239.65);
   border: 1px solid rgb(221.8, 221.8, 221.8);
-  #    border-bottom-color: rgb(201.4, 201.4, 201.4);
+  border-bottom-color: rgb(201.4, 201.4, 201.4);
 }
 table td {
   border: 1px solid #e8e8e8;
